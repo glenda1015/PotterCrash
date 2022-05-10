@@ -1,4 +1,4 @@
-# PotterCrash
+# PotterCrash #ColorBuster
 Potter Crash is the name given to the game that was developed. This is a fun game in which an interface is provided for the user to select 
 and destroy blocks that have the same color and are adjacent to each other in order to get points. As the user scores points the system will
 keep track of it and it will display it for the user to see.
